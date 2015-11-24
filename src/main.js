@@ -116,7 +116,7 @@ module.exports = {
                         switch (obj.order) {
 
                             case "execute":
-                                that.state = "working";
+                                that.status = "working";
                                 console.log((new Date()) + " The master ordered to perform the task");
                                 task(obj.param);
                                 that.countTasks++;
