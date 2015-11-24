@@ -1,0 +1,5 @@
+{
+    "status": "status of worker (waiting|sleeping|working|)",
+    "message": "a message from worker",
+    "countTasks": "number of tasks performed"
+}

@@ -1,0 +1,6 @@
+{
+    "order": "get|execute|wait|is_working|",
+    "param":{
+        "some other key param": "value mapped param"
+    }
+}
