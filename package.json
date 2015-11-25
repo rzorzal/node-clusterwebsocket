@@ -1,0 +1,36 @@
+{
+  "name": "node-clusterwebsocket",
+  "version": "1.0.0",
+  "description": "Implementation of master and worker of one cluster using websocket for communications between master and workers.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzorzal/node-clusterwebsocket.git"
+  },
+  "keywords": [
+    "cluster",
+    "node",
+    "websocket",
+    "node-clusterwebsocket",
+    "master",
+    "worker",
+    "networking",
+    "realtime",
+    "high performance",
+    "high",
+    "performance",
+    "rzorzal"
+  ],
+  "author": "Ricardo Zorzal Davila",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rzorzal/node-clusterwebsocket/issues"
+  },
+  "homepage": "https://github.com/rzorzal/node-clusterwebsocket#readme",
+  "dependencies": {
+    "websocket": "*"
+  }
+}
